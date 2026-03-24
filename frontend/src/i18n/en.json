@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Home",
+    "publications": "Publications",
+    "about": "About",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero_subtitle": "Research Scientist",
+    "research_interests": "Research Interests",
+    "recent_publications": "Recent Publications",
+    "view_all": "View All",
+    "contact": "Contact"
+  },
+  "publications": {
+    "title": "Publications",
+    "search_placeholder": "Search by title or keyword...",
+    "filter_year": "Year",
+    "filter_type": "Type",
+    "filter_lang": "Language",
+    "all": "All",
+    "no_results": "No results found",
+    "abstract": "Abstract",
+    "show_abstract": "Show Abstract",
+    "hide_abstract": "Hide",
+    "pdf": "PDF",
+    "doi": "DOI",
+    "cite": "Cite",
+    "copy_apa": "Copy APA",
+    "copy_bibtex": "Copy BibTeX",
+    "copied": "Copied!",
+    "views": "Views",
+    "types": {
+      "journal": "Journal Article",
+      "conference": "Conference Paper",
+      "book": "Book Chapter",
+      "patent": "Patent",
+      "thesis": "Thesis"
+    }
+  },
+  "about": {
+    "title": "About",
+    "bio": "Biography",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills & Research Areas",
+    "awards": "Awards & Grants",
+    "download_cv": "Download CV",
+    "present": "Present"
+  },
+  "admin": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "dashboard": "Dashboard",
+    "articles": "Articles",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "add_article": "New Article",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "upload_pdf": "Upload PDF",
+    "confirm_delete": "Confirm deletion?",
+    "total_publications": "Total Publications",
+    "published": "Published",
+    "draft": "Draft",
+    "total_views": "Total Views"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "year": "Year",
+    "authors": "Authors",
+    "journal": "Journal",
+    "language": "Language"
+  }
+}

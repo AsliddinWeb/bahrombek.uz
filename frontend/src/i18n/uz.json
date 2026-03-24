@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "publications": "Maqolalar",
+    "about": "Haqida",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero_subtitle": "Ilmiy tadqiqotchi",
+    "research_interests": "Tadqiqot yo'nalishlari",
+    "recent_publications": "So'nggi maqolalar",
+    "view_all": "Barchasini ko'rish",
+    "contact": "Bog'lanish"
+  },
+  "publications": {
+    "title": "Maqolalar",
+    "search_placeholder": "Sarlavha yoki kalit so'z bo'yicha qidirish...",
+    "filter_year": "Yil",
+    "filter_type": "Tur",
+    "filter_lang": "Til",
+    "all": "Barchasi",
+    "no_results": "Natija topilmadi",
+    "abstract": "Annotatsiya",
+    "show_abstract": "Annotatsiyani ko'rish",
+    "hide_abstract": "Yopish",
+    "pdf": "PDF",
+    "doi": "DOI",
+    "cite": "Iqtibos",
+    "copy_apa": "APA ko'chirish",
+    "copy_bibtex": "BibTeX ko'chirish",
+    "copied": "Nusxalandi!",
+    "views": "Ko'rishlar",
+    "types": {
+      "journal": "Jurnal",
+      "conference": "Konferensiya",
+      "book": "Kitob",
+      "patent": "Patent",
+      "thesis": "Dissertatsiya"
+    }
+  },
+  "about": {
+    "title": "Haqida",
+    "bio": "Biografiya",
+    "education": "Ta'lim",
+    "experience": "Ish tajribasi",
+    "skills": "Ko'nikmalar",
+    "awards": "Mukofotlar",
+    "download_cv": "CV yuklab olish",
+    "present": "Hozirgi vaqtgacha"
+  },
+  "admin": {
+    "login": "Kirish",
+    "username": "Foydalanuvchi nomi",
+    "password": "Parol",
+    "sign_in": "Tizimga kirish",
+    "dashboard": "Boshqaruv paneli",
+    "articles": "Maqolalar",
+    "profile": "Profil",
+    "settings": "Sozlamalar",
+    "logout": "Chiqish",
+    "add_article": "Yangi maqola",
+    "edit": "Tahrirlash",
+    "delete": "O'chirish",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "upload_pdf": "PDF yuklash",
+    "confirm_delete": "O'chirishni tasdiqlaysizmi?",
+    "total_publications": "Jami maqolalar",
+    "published": "Nashr qilingan",
+    "draft": "Qoralama",
+    "total_views": "Jami ko'rishlar"
+  },
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik yuz berdi",
+    "retry": "Qayta urinish",
+    "close": "Yopish",
+    "year": "Yil",
+    "authors": "Mualliflar",
+    "journal": "Jurnal",
+    "language": "Til"
+  }
+}

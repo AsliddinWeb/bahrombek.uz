@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "home": "Главная",
+    "publications": "Публикации",
+    "about": "О себе",
+    "admin": "Админ"
+  },
+  "home": {
+    "hero_subtitle": "Научный исследователь",
+    "research_interests": "Научные интересы",
+    "recent_publications": "Последние публикации",
+    "view_all": "Все публикации",
+    "contact": "Контакт"
+  },
+  "publications": {
+    "title": "Публикации",
+    "search_placeholder": "Поиск по названию или ключевым словам...",
+    "filter_year": "Год",
+    "filter_type": "Тип",
+    "filter_lang": "Язык",
+    "all": "Все",
+    "no_results": "Результатов не найдено",
+    "abstract": "Аннотация",
+    "show_abstract": "Показать аннотацию",
+    "hide_abstract": "Скрыть",
+    "pdf": "PDF",
+    "doi": "DOI",
+    "cite": "Цитата",
+    "copy_apa": "Копировать APA",
+    "copy_bibtex": "Копировать BibTeX",
+    "copied": "Скопировано!",
+    "views": "Просмотры",
+    "types": {
+      "journal": "Журнальная статья",
+      "conference": "Конференция",
+      "book": "Глава книги",
+      "patent": "Патент",
+      "thesis": "Диссертация"
+    }
+  },
+  "about": {
+    "title": "О себе",
+    "bio": "Биография",
+    "education": "Образование",
+    "experience": "Опыт работы",
+    "skills": "Навыки",
+    "awards": "Награды и гранты",
+    "download_cv": "Скачать резюме",
+    "present": "Настоящее время"
+  },
+  "admin": {
+    "login": "Войти",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "sign_in": "Войти в систему",
+    "dashboard": "Панель управления",
+    "articles": "Статьи",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "logout": "Выйти",
+    "add_article": "Новая статья",
+    "edit": "Изменить",
+    "delete": "Удалить",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "upload_pdf": "Загрузить PDF",
+    "confirm_delete": "Подтвердить удаление?",
+    "total_publications": "Всего публикаций",
+    "published": "Опубликовано",
+    "draft": "Черновик",
+    "total_views": "Всего просмотров"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "retry": "Повторить",
+    "close": "Закрыть",
+    "year": "Год",
+    "authors": "Авторы",
+    "journal": "Журнал",
+    "language": "Язык"
+  }
+}
