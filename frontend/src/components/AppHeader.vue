@@ -2,8 +2,8 @@
   <header class="sticky top-0 z-40 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-slate-100 dark:border-slate-800">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
       <!-- Logo -->
-      <RouterLink to="/" class="font-display font-bold text-xl text-brand-600 dark:text-brand-400 hover:opacity-80 transition-opacity">
-        B.
+      <RouterLink to="/" class="hover:opacity-80 transition-opacity">
+        <img src="/logo.png" alt="Logo" class="h-16 w-auto" />
       </RouterLink>
 
       <!-- Desktop Nav -->
